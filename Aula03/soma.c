@@ -2,6 +2,7 @@
 
 int main() {
     int N, soma = 0;
+    printf("Introduzir o valor: ");
     scanf("%d", &N);
 
     for (int i = 1; i <= N; i++) {
